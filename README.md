@@ -4,5 +4,5 @@
 
 * Voornaam: Luca 
 * Achternaam: Paladini
-* Klas: 1TI7-8
-* Richting: Toegepaste Informatica
+* Klas: 1GR1
+* Richting: Graduaat programmeren
